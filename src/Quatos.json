@@ -1,0 +1,254 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "name": "Quote 1",
+      "text": "The only way to do great work is to love what you do."
+    },
+    {
+      "id": 2,
+      "name": "Quote 2",
+      "text": "Believe you can and you're halfway there."
+    },
+    {
+      "id": 3,
+      "name": "Quote 3",
+      "text": "Don't watch the clock; do what it does. Keep going."
+    },
+    {
+      "id": 4,
+      "name": "Quote 4",
+      "text": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+      "id": 5,
+      "name": "Quote 5",
+      "text": "It always seems impossible until it's done."
+    },
+    {
+      "id": 6,
+      "name": "Quote 6",
+      "text": "Life is 10% what happens to us and 90% how we react to it."
+    },
+    {
+      "id": 7,
+      "name": "Quote 7",
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+      "id": 8,
+      "name": "Quote 8",
+      "text": "In the middle of difficulty lies opportunity."
+    },
+    {
+      "id": 9,
+      "name": "Quote 9",
+      "text": "The only limit to our realization of tomorrow will be our doubts of today."
+    },
+    {
+      "id": 10,
+      "name": "Quote 10",
+      "text": "The way to get started is to quit talking and begin doing."
+    },
+    {
+      "id": 11,
+      "name": "Quote 11",
+      "text": "Your time is limited, don't waste it living someone else's life."
+    },
+    {
+      "id": 12,
+      "name": "Quote 12",
+      "text": "Life is what happens when you're busy making other plans."
+    },
+    {
+      "id": 13,
+      "name": "Quote 13",
+      "text": "Do not wait to strike till the iron is hot, but make it hot by striking."
+    },
+    {
+      "id": 14,
+      "name": "Quote 14",
+      "text": "I find that the harder I work, the more luck I seem to have."
+    },
+    {
+      "id": 15,
+      "name": "Quote 15",
+      "text": "Don't cry because it's over, smile because it happened."
+    },
+    {
+      "id": 16,
+      "name": "Quote 16",
+      "text": "The best way to predict the future is to create it."
+    },
+    {
+      "id": 17,
+      "name": "Quote 17",
+      "text": "Happiness is not by chance, but by choice."
+    },
+    {
+      "id": 18,
+      "name": "Quote 18",
+      "text": "Success is stumbling from failure to failure with no loss of enthusiasm."
+    },
+    {
+      "id": 19,
+      "name": "Quote 19",
+      "text": "If you want to achieve greatness stop asking for permission."
+    },
+    {
+      "id": 20,
+      "name": "Quote 20",
+      "text": "The only person you are destined to become is the person you decide to be."
+    },
+    {
+      "id": 21,
+      "name": "Quote 21",
+      "text": "You miss 100% of the shots you don't take."
+    },
+    {
+      "id": 22,
+      "name": "Quote 22",
+      "text": "Do not take life too seriously. You will never get out of it alive."
+    },
+    {
+      "id": 23,
+      "name": "Quote 23",
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    },
+    {
+      "id": 24,
+      "name": "Quote 24",
+      "text": "It's not whether you get knocked down, it's whether you get up."
+    },
+    {
+      "id": 25,
+      "name": "Quote 25",
+      "text": "You have within you right now, everything you need to deal with whatever the world can throw at you."
+    },
+    {
+      "id": 26,
+      "name": "Quote 26",
+      "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."
+    },
+    {
+      "id": 27,
+      "name": "Quote 27",
+      "text": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact."
+    },
+    {
+      "id": 28,
+      "name": "Quote 28",
+      "text": "The purpose of our lives is to be happy."
+    },
+    {
+      "id": 29,
+      "name": "Quote 29",
+      "text": "Life is really simple, but we insist on making it complicated."
+    },
+    {
+      "id": 30,
+      "name": "Quote 30",
+      "text": "The only true wisdom is in knowing you know nothing."
+    },
+    {
+      "id": 31,
+      "name": "Quote 31",
+      "text": "Don't count the days, make the days count."
+    },
+    {
+      "id": 32,
+      "name": "Quote 32",
+      "text": "It's not what happens to you, but how you react to it that matters."
+    },
+    {
+      "id": 33,
+      "name": "Quote 33",
+      "text": "The best revenge is massive success."
+    },
+    {
+      "id": 34,
+      "name": "Quote 34",
+      "text": "The greatest wealth is to live content with little."
+    },
+    {
+      "id": 35,
+      "name": "Quote 35",
+      "text": "In three words I can sum up everything I've learned about life: it goes on."
+    },
+    {
+      "id": 36,
+      "name": "Quote 36",
+      "text": "To live is the rarest thing in the world. Most people exist, that is all."
+    },
+    {
+      "id": 37,
+      "name": "Quote 37",
+      "text": "You only live once, but if you do it right, once is enough."
+    },
+    {
+      "id": 38,
+      "name": "Quote 38",
+      "text": "Life is really simple, but we insist on making it complicated."
+    },
+    {
+      "id": 39,
+      "name": "Quote 39",
+      "text": "The purpose of our lives is to be happy."
+    },
+    {
+      "id": 40,
+      "name": "Quote 40",
+      "text": "Life is what happens when you're busy making other plans."
+    },
+    {
+      "id": 41,
+      "name": "Quote 41",
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+      "id": 42,
+      "name": "Quote 42",
+      "text": "In the middle of difficulty lies opportunity."
+    },
+    {
+      "id": 43,
+      "name": "Quote 43",
+      "text": "The only limit to our realization of tomorrow will be our doubts of today."
+    },
+    {
+      "id": 44,
+      "name": "Quote 44",
+      "text": "The way to get started is to quit talking and begin doing."
+    },
+    {
+      "id": 45,
+      "name": "Quote 45",
+      "text": "Your time is limited, don't waste it living someone else's life."
+    },
+    {
+      "id": 46,
+      "name": "Quote 46",
+      "text": "Do not wait to strike till the iron is hot, but make it hot by striking."
+    },
+    {
+      "id": 47,
+      "name": "Quote 47",
+      "text": "I find that the harder I work, the more luck I seem to have."
+    },
+    {
+      "id": 48,
+      "name": "Quote 48",
+      "text": "Don't cry because it's over, smile because it happened."
+    },
+    {
+      "id": 49,
+      "name": "Quote 49",
+      "text": "The best way to predict the future is to create it."
+    },
+    {
+      "id": 50,
+      "name": "Quote 50",
+      "text": "Happiness is not by chance, but by choice."
+    }
+  ]
+}
